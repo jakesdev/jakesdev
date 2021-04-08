@@ -30,7 +30,6 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 <ul>Coding / Unit Test Case</ul>
 <h3>Side Activity</h3>
 <ul>Used to be The Board of Directing Of  <a href="https://www.facebook.com/FPTUDever">FU Dever Club</a> - Academic Club of FPT University</ul>
-<ul>
 <h3>Interest</h3>    
 <p>When not working, I love to watch movies and read books. As a matter of fact, I'm a big fan of Game of Thrones(both the book and the movie). Besides that I also love soccer. I also like playing games (Path Of Exile, Albion Online, etc), watching soccer, and cheering for my favorite Manchester United F.C.</p>
 <!---
