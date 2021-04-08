@@ -9,13 +9,27 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 <p>Phone   : (076) 987-7453</p>
 <p>Email  : [<a href="mailto:jakes.developer@gmail.com">jakes.developer@gmail.com</a>] </p>
 <h3>Education</h3>
-<h6>FPT University Da Nang : 2017 to now</h6>
+<h4>FPT University Da Nang : 2017 to now</h4>
 <ul>GPA : 3.3 / 4</ul>
 
 <ul>Mathematics for Engineering : 3.44 / 4</ul>
 <ul>Honorable student - 1% of whole University student for 7 consecutive semester</ul>
 <ul>Get [<a href="StudentTranscript_DE130018.xls"> Academic Transcript</a>]</ul>
-           
+<h3>Coding</h3>
+<ul>HTML/Javascript/CSS</ul>
+<ul>Java</ul>
+<ul>C#</ul>
+<h3>Framework</h3>
+<ul>ReactJS - Learning</ul>
+
+
+<h3>Working Experience</h3>
+<h4>Front-end Developer</h4>
+<p>January 2020 - May 2020 | FPT Software | Da Nang, Viet Nam</p>
+<ul>Convert Flash/Flex to Angular/Typescript languages</ul>
+<ul>Coding / Unit Test Case</ul>
+
+
          
 <!---
 jakesdev/jakesdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
