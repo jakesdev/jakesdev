@@ -1,5 +1,3 @@
-@jakesdev
-=
 ![Banner](banner.jpg?raw=true "Title")
 <h1>Hi, I'm Viet Thuan</h1>
 - 💞️ I’m looking to collaborate on ...
