@@ -24,6 +24,10 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 
 
 <h3>Working Experience</h3>
+<h4>Fullstack Developer</h4>
+<p>June 2021 - Now | Rikkeisoft | Da Nang, Viet Nam</p>
+<ul>Angular/ Spring Boot/ MongoDB / RestfulAPI</ul>
+
 <h4>Front-end Developer</h4>
 <p>January 2020 - May 2020 | FPT Software | Da Nang, Viet Nam</p>
 <ul>Convert Flash/Flex to Angular/Typescript languages</ul>
