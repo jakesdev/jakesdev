@@ -20,8 +20,14 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 <ul>Java</ul>
 <ul>C#</ul>
 <h3>Framework</h3>
-<ul>ReactJS - Learning</ul>
-
+<ul>Angular</ul>
+<ul>Spring Boot</ul>
+<h3>Other</h3>
+<ul>Rest API</ul>
+<ul>Figma</ul>
+<ul>AdobeXD</ul>
+<ul>Redmine</ul>
+<ul>Jira</ul>
 
 <h3>Working Experience</h3>
 <h4>Fullstack Developer</h4>
