@@ -16,27 +16,28 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 <ul>Mathematics for Engineering : 3.44 / 4</ul>
 <ul>Honorable student - 1% of whole University student for 7 consecutive semester</ul>
 <ul>Get <a href="StudentTranscript_DE130018.xls"> Academic Transcript</a></ul>
-<h3>Coding</h3>
+<h3>Skill</h3>
 <ul>HTML/Javascript/CSS</ul>
 <ul>Java</ul>
 <ul>C#</ul>
-<h3>Framework</h3>
 <ul>Angular</ul>
 <ul>Spring Boot</ul>
-<h3>Other</h3>
+<ul>MongoDB</ul>
 <ul>Rest API</ul>
-<ul>Figma</ul>
-<ul>AdobeXD</ul>
-<ul>Redmine</ul>
-<ul>Jira</ul>
+<ul>Figma / AdobeXD</ul>
+<ul></ul>
+<ul>Redmine / Jira</ul>
+<ul></ul>
 
 <h3>Working Experience</h3>
 <h4>Fullstack Developer</h4>
 <p>June 2021 - Now | Rikkeisoft | Da Nang, Viet Nam</p>
+<h5>PROJECT: HR***</h5>
 <ul>Angular/ Spring Boot/ MongoDB / RestfulAPI</ul>
 
 <h4>Front-end Developer</h4>
 <p>January 2020 - May 2020 | FPT Software | Da Nang, Viet Nam</p>
+<h5>PROJECT: FLM***</h5>
 <ul>Convert Flash/Flex to Angular/Typescript languages</ul>
 <ul>Coding / Unit Test Case</ul>
 <h3>Side Activity</h3>
