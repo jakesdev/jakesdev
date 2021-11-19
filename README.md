@@ -1,6 +1,7 @@
 ![Banner](banner.jpg?raw=true "Title")
 <h1>Hi, I'm Viet Thuan</h1>
 <h3>About Me</h3>
+<p>In brief, I am passionate about coding, making products and eager to work on new things with creative ideas. This is a website to give you informnation about me. Also to show off my productions. Please feel free to explore & tell me what you think about it</p>
 <p>I'm a person who is always searching for, learning new things and creating innovative products to promote my own development.</p><p>
 I', not an easier give up person, if I had any problems I can stay on my computer and searching, thinking and try to figure it out. </p>
 
