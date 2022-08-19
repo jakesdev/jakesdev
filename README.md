@@ -30,13 +30,25 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 <ul></ul>
 
 <h3>Working Experience</h3>
-<h4>Backend Developer</h4>
+
 <p>January 2021 - Now | Enlab Software | Da Nang, Viet Nam</p>
-<h5>PROJECT: XR <h5>
+<h4>Front-end Developer</h4>
+<h5>PROJECT: X*** <h5>
+<ul>Angular/ NodeJS / PostgresSQL / GraphQL</ul>
+
+<p>January 2021 - Now | Enlab Software | Da Nang, Viet Nam</p>
+<h4>Fullstack Developer</h4>
+<h5>PROJECT: S*** <h5>
 <ul>Angular/ NodeJS (NestJS) / PostgresSQL / RestfulAPI</ul>
 
+<p>January 2021 - Now | Enlab Software | Da Nang, Viet Nam</p>
 <h4>Fullstack Developer</h4>
+<h5>PROJECT: X*** <h5>
+<ul>Angular/ NodeJS (NestJS) / PostgresSQL / RestfulAPI</ul>
+
 <p>March 2021 - December 2021 | Rikkeisoft | Da Nang, Viet Nam</p>
+<h4>Fullstack Developer</h4>
+
 <h5>PROJECT: HR***</h5>
 <ul>Angular/ Spring Boot/ MongoDB / RestfulAPI</ul>
 
