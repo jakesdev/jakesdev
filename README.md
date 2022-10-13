@@ -17,12 +17,14 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 <ul>Honorable student - 1% of whole University student for 7 consecutive semester</ul>
 <ul>Get <a href="StudentTranscript_DE130018.xls"> Academic Transcript</a></ul>
 <h3>Skill</h3>
-<ul>HTML/Javascript/CSS</ul>
+<ul>Javascript / Typescript</ul>
 <ul>Java</ul>
-<ul>C#</ul>
+<ul>NodeJS</ul>
 <ul>Angular</ul>
 <ul>Spring Boot</ul>
-<ul>MongoDB</ul>
+<ul>Microservices</ul>
+<ul>Docker</ul>
+<ul>SQL - No SQL</ul>
 <ul>Rest API</ul>
 <ul>Figma / AdobeXD</ul>
 <ul></ul>
@@ -31,17 +33,17 @@ I', not an easier give up person, if I had any problems I can stay on my compute
 
 <h3>Working Experience</h3>
 
-<p>January 2021 - Now | Enlab Software | Da Nang, Viet Nam</p>
+<p>August 2022 - Now | Enlab Software | Da Nang, Viet Nam</p>
 <h4>Front-end Developer</h4>
 <h5>PROJECT: X*** <h5>
 <ul>Angular/ NodeJS / PostgresSQL / GraphQL</ul>
 
-<p>January 2021 - Now | Enlab Software | Da Nang, Viet Nam</p>
+<p>January 2021 - August 2022 | Enlab Software | Da Nang, Viet Nam</p>
 <h4>Fullstack Developer</h4>
 <h5>PROJECT: S*** <h5>
 <ul>Angular/ NodeJS (NestJS) / PostgresSQL / RestfulAPI</ul>
 
-<p>January 2021 - Now | Enlab Software | Da Nang, Viet Nam</p>
+<p>January 2021 - August 2022 | Enlab Software | Da Nang, Viet Nam</p>
 <h4>Fullstack Developer</h4>
 <h5>PROJECT: X*** <h5>
 <ul>Angular/ NodeJS (NestJS) / PostgresSQL / RestfulAPI</ul>
