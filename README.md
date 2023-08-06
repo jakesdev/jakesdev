@@ -1,4 +1,4 @@
-![Banner](only-me.jpg?raw=true "Title")
+
 <h1>Hi, I'm Viet Thuan</h1>
 <h3>About Me</h3>
 <p>In brief, I am passionate about coding, making products and eager to work on new things with creative ideas. This is a website to give you informnation about me. Also to show off my productions. Please feel free to explore & tell me what you think about it</p>
