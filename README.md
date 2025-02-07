@@ -3,11 +3,6 @@
 Full-stack developer passionate about building innovative solutions. I thrive on solving complex problems and never give up until finding the right solution.
 
 ## 🤝 Connect with me:
-## 🤝 Connect
-
-<a href="mailto:jakes.developer@gmail.com">
- <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/in/jakesdeveloper/"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5296501_linkedin_network_linkedin_logo_icon.png" alt="Jakes Developer | LinkedIn" width="35px"/></a>
 
