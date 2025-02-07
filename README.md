@@ -9,14 +9,14 @@ Full-stack developer passionate about building innovative solutions. I thrive on
  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/jakesdeveloper/"><img align="left" src="https://raw.githubusercontent.com/jakesedev/jakesedev/main/5296501_linkedin_network_linkedin_logo_icon.png" alt="Jakes Developer | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/jakesdeveloper/"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5296501_linkedin_network_linkedin_logo_icon.png" alt="Jakes Developer | LinkedIn" width="35px"/></a>
 
-<a href="https://www.facebook.com/Jakes.Official/"><img align="left" src="https://raw.githubusercontent.com/jakesedev/jakesedev/main/5365678_fb_facebook_facebook_logo_icon.png" alt="Jakes Developer| Facebook" width="35px"/></a>
+<a href="https://www.facebook.com/Jakes.Official/"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5365678_fb_facebook_facebook_logo_icon.png" alt="Jakes Developer| Facebook" width="35px"/></a>
 
-<!-- <a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/jakesedev/jakesedev/main/5296521_play_video_vlog_youtube_youtube_logo_icon.png" alt="Jakes Developer| Youtube" width="35px"/></a> -->
+<!-- <a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5296521_play_video_vlog_youtube_youtube_logo_icon.png" alt="Jakes Developer| Youtube" width="35px"/></a> -->
 
 
-<a href="mailto:jakes.developer@gmail.com"><img align="left" src="https://raw.githubusercontent.com/jakesedev/jakesedev/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Jakes Developer | Gmail" width="35px"/></a>
+<a href="mailto:jakes.developer@gmail.com"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Jakes Developer | Gmail" width="35px"/></a>
 
 
 </br>
