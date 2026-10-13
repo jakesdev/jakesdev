@@ -6,7 +6,6 @@ Full-stack developer passionate about building innovative solutions. I thrive on
 
 <a href="https://www.linkedin.com/in/jakesdeveloper/"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5296501_linkedin_network_linkedin_logo_icon.png" alt="Jakes Developer | LinkedIn" width="35px"/></a>
 
-<a href="https://www.facebook.com/Jakes.Official/"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5365678_fb_facebook_facebook_logo_icon.png" alt="Jakes Developer| Facebook" width="35px"/></a>
 
 <!-- <a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/jakesdev/jakesdev/main/5296521_play_video_vlog_youtube_youtube_logo_icon.png" alt="Jakes Developer| Youtube" width="35px"/></a> -->
 
